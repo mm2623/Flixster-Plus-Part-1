@@ -21,6 +21,8 @@ The following **optional** features are implemented:
   - App should neatly arrange data in both landscape and portrait mode
 - [X] Implement Glide to display placeholder graphics during loading
   - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
+  ![image](https://user-images.githubusercontent.com/90267420/218291771-897b8724-3bf0-4ef3-b338-d70dda5d5f1c.png)
+
 
 The following **additional** features are implemented:
 
@@ -30,7 +32,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/90267420/218291941-cda844c7-8ae9-48ff-9723-ff0eb11fc81e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with ...  
 [LICEcap](https://licecap.en.softonic.com/) for Windows
